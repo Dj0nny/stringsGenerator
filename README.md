@@ -5,3 +5,5 @@ This is an example that was made with Python and the CherryPy, a Python web fram
 For running this example you should have to install:
   1) a Python interpreter (https://www.python.org/downloads/)
   2) the framework CherryPy (you can clone this repository https://github.com/cherrypy/cherrypy using the command "git clone" or using    "pip install cherrypy"
+
+This program asks in input a number and it generates a random world (word's length is equal to input's number)
